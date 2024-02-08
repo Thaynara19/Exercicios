@@ -1,0 +1,12 @@
+#Exercicio faça um programa que leia um número inteiro qualquer e mostre na tela sua tabuada.
+num1 = int(input(' Informe um número da sua tabuada: '))
+print('{} X {} = {}'.format(num1,1,num1*1))
+print('{} X {} = {}'.format(num1,2,num1*2))
+print('{} X {} = {}'.format(num1,3,num1*3))
+print('{} X {} = {}'.format(num1,4,num1*4))
+print('{} X {} = {}'.format(num1,5,num1*5))
+print('{} X {} = {}'.format(num1,6,num1*6))
+print('{} X {} = {}'.format(num1,7,num1*7))
+print('{} X {} = {}'.format(num1,8,num1*8))
+print('{} X {} = {}'.format(num1,9,num1*9))
+print('{} X {} = {}'.format(num1,10,num1*10))
